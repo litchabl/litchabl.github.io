@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://litchabl.github.io/sitemap.litchabl.gz
+Sitemap: https://litchabl.github.io/app/sitemap.litchabl.gz
+Sitemap: https://litchabl.github.io/assets/sitemap.litchabl.gz
+Sitemap: https://litchabl.github.io/css/sitemap.litchabl.gz
+Sitemap: https://litchabl.github.io/data/sitemap.litchabl.gz
+Sitemap: https://litchabl.github.io/includes/sitemap.litchabl.gz
+Sitemap: https://litchabl.github.io/item/sitemap.litchabl.gz
+Sitemap: https://litchabl.github.io/src/sitemap.litchabl.gz
